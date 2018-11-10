@@ -14,11 +14,11 @@ function divide(a,b) {
 }
 
 function inc(n, i = 1) {
-  return a += b
+  return n += i
 }
 
 function dec(n, i = 1) {
-  return a -= b
+  return n -= i
 }
 
 function makeInt(n) {
